@@ -1,4 +1,3 @@
-pip install whisper
 import streamlit as st
 import whisper
 from whisper.utils import get_partial_transcript
